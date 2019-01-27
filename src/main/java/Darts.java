@@ -1,5 +1,5 @@
 public class Darts {
-    //Darts class in Master
+    //Darts class in Master with change
     enum Multiplier {
         DOUBLE, TRIPLE, XX;
     }

@@ -1,4 +1,4 @@
-//DartsTest ckass in Master
+//DartsTest class in Master with change
 import org.junit.Before;
 
 public class DartsTest {
